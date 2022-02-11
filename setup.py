@@ -77,7 +77,7 @@ extras_require = {
         "pyspark>=2.4.5,<3.2.0",
     ],
     "dev": [
-        "black>=18.6b4,<21",
+        "black>=18.6b4,<23",
         "pytest>=3.6.4",
         "pytest-cov>=2.12.1",
         "pytest-mock>=3.6.1",  # for access to mock fixtures in pytest
